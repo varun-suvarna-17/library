@@ -1,0 +1,4 @@
+The Great Gatsby,F scott,S01,1
+To Kill A Bird ,Harper Lee,S02,1
+1984,George Orwell,S03,1
+Moby Dick,Herman,S04,1
